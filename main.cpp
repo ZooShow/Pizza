@@ -687,8 +687,8 @@ public:
                      << pizzas[i]->getCountOfCheese() << ", размер: "
                      << pizzas[i]->getSize() << " на сумму: " <<
                      pizzas[i]->getPrice() << " руб." << endl;
-                cout << " итого : " << totalPrice << " руб.";
             }
+            cout << " итого : " << totalPrice << " руб." << endl;
         }
     }
 
